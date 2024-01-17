@@ -1,3 +1,1 @@
 # RedemptionWiki
-
-Test change
